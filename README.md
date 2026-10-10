@@ -11,7 +11,7 @@ this is for learning html and css totally
 <body>
 
     <div class="card">
-        <h1>Swati Panda</h1>
+        <h1>Anubhav Suryanshhu</h1>
         <p>Computer Science Student</p>
         <p>I love coding and learning new technologies.</p>
         <button>Contact Me</button>
